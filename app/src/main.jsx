@@ -11,6 +11,8 @@ const GlobalStyle = createGlobalStyle`
       padding: 0;
     }
     body{
+      font-family: 'Inter', sans-serif;
+      /* font-family: 'Poppins', sans-serif;; */
       background-color: #323343;
       color: white;
       min-height: 100vh;
